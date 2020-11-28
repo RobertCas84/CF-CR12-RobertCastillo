@@ -1,0 +1,19 @@
+/*
+Theme Name: Mount Everest;
+Theme URI: https://www.codefactory.wien;
+Author: Robert Castillo;
+Description: this is the most exciting travelling blog!;
+
+*/
+.jumbotron{
+    background-image: url(./assets/landscape.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: black;
+}
+.frontpage{
+    background-image: url(https://cdn.pixabay.com/photo/2018/04/07/01/44/snow-3297561_1280.jpg);
+}
